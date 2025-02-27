@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 C:\Users\k1206562\Desktop\gamble-\isGame
+=======
+C:\Users\K1712529\Downloads\gambling\gamble-\isGame
+>>>>>>> Stashed changes
