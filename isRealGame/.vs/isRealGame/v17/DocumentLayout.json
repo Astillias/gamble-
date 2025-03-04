@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Marho\\OneDrive\\Documents\\GitHub\\gamble-\\isRealGame\\",
+  "WorkspaceRootPath": "C:\\Users\\K1712529\\Downloads\\gambling\\gamble-\\isRealGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34424F2D-F071-C66D-2A1B-702DDD8E2ECC}|Assembly-CSharp.csproj|c:\\users\\marho\\onedrive\\documents\\github\\gamble-\\isrealgame\\assets\\scripts\\movecam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34424F2D-F071-C66D-2A1B-702DDD8E2ECC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movecam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34424F2D-F071-C66D-2A1B-702DDD8E2ECC}|Assembly-CSharp.csproj|c:\\users\\k1712529\\downloads\\gambling\\gamble-\\isrealgame\\assets\\scripts\\pcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34424F2D-F071-C66D-2A1B-702DDD8E2ECC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34424F2D-F071-C66D-2A1B-702DDD8E2ECC}|Assembly-CSharp.csproj|C:\\Users\\Marho\\OneDrive\\Documents\\GitHub\\gamble-\\isRealGame\\assets\\scripts\\pcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34424F2D-F071-C66D-2A1B-702DDD8E2ECC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34424F2D-F071-C66D-2A1B-702DDD8E2ECC}|Assembly-CSharp.csproj|C:\\Users\\K1712529\\Downloads\\gambling\\gamble-\\isRealGame\\assets\\scripts\\movecam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34424F2D-F071-C66D-2A1B-702DDD8E2ECC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movecam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MoveCam.cs",
-              "DocumentMoniker": "C:\\Users\\Marho\\OneDrive\\Documents\\GitHub\\gamble-\\isRealGame\\Assets\\Scripts\\MoveCam.cs",
+              "DocumentMoniker": "C:\\Users\\K1712529\\Downloads\\gambling\\gamble-\\isRealGame\\Assets\\Scripts\\MoveCam.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MoveCam.cs",
-              "ToolTip": "C:\\Users\\Marho\\OneDrive\\Documents\\GitHub\\gamble-\\isRealGame\\Assets\\Scripts\\MoveCam.cs",
+              "ToolTip": "C:\\Users\\K1712529\\Downloads\\gambling\\gamble-\\isRealGame\\Assets\\Scripts\\MoveCam.cs",
               "RelativeToolTip": "Assets\\Scripts\\MoveCam.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAQAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T00:17:57.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T00:17:57.412Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Pcam.cs",
-              "DocumentMoniker": "C:\\Users\\Marho\\OneDrive\\Documents\\GitHub\\gamble-\\isRealGame\\Assets\\Scripts\\Pcam.cs",
+              "DocumentMoniker": "C:\\Users\\K1712529\\Downloads\\gambling\\gamble-\\isRealGame\\Assets\\Scripts\\Pcam.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Pcam.cs",
-              "ToolTip": "C:\\Users\\Marho\\OneDrive\\Documents\\GitHub\\gamble-\\isRealGame\\Assets\\Scripts\\Pcam.cs",
+              "ToolTip": "C:\\Users\\K1712529\\Downloads\\gambling\\gamble-\\isRealGame\\Assets\\Scripts\\Pcam.cs",
               "RelativeToolTip": "Assets\\Scripts\\Pcam.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T00:17:54.515Z"
+              "WhenOpened": "2025-03-03T00:17:54.515Z",
+              "EditorCaption": ""
             }
           ]
         }

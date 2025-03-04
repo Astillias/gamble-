@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CharacterController3D : MonoBehaviour
+public class MoveCam : MonoBehaviour
 {
     public float moveSpeed = 5f;
     public float jumpForce = 5f;
