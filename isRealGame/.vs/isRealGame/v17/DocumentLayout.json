@@ -3,15 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\K1712529\\Downloads\\gambling\\gamble-\\isRealGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34424F2D-F071-C66D-2A1B-702DDD8E2ECC}|Assembly-CSharp.csproj|c:\\users\\k1712529\\downloads\\gambling\\gamble-\\isrealgame\\assets\\scripts\\coinflip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34424F2D-F071-C66D-2A1B-702DDD8E2ECC}|Assembly-CSharp.csproj|c:\\users\\k1712529\\downloads\\gambling\\gamble-\\isrealgame\\assets\\scripts\\interactionprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34424F2D-F071-C66D-2A1B-702DDD8E2ECC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactionprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34424F2D-F071-C66D-2A1B-702DDD8E2ECC}|Assembly-CSharp.csproj|c:\\users\\k1712529\\downloads\\gambling\\gamble-\\isrealgame\\assets\\scripts\\interactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34424F2D-F071-C66D-2A1B-702DDD8E2ECC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\K1712529\\Downloads\\gambling\\gamble-\\isRealGame\\Assets\\Scripts\\GameInteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameInteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34424F2D-F071-C66D-2A1B-702DDD8E2ECC}|Assembly-CSharp.csproj|C:\\Users\\K1712529\\Downloads\\gambling\\gamble-\\isRealGame\\assets\\scripts\\coinflip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34424F2D-F071-C66D-2A1B-702DDD8E2ECC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coinflip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34424F2D-F071-C66D-2A1B-702DDD8E2ECC}|Assembly-CSharp.csproj|c:\\users\\k1712529\\downloads\\gambling\\gamble-\\isrealgame\\assets\\scripts\\tails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34424F2D-F071-C66D-2A1B-702DDD8E2ECC}|Assembly-CSharp.csproj|C:\\Users\\K1712529\\Downloads\\gambling\\gamble-\\isRealGame\\assets\\scripts\\tails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34424F2D-F071-C66D-2A1B-702DDD8E2ECC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34424F2D-F071-C66D-2A1B-702DDD8E2ECC}|Assembly-CSharp.csproj|c:\\users\\k1712529\\downloads\\gambling\\gamble-\\isrealgame\\assets\\scripts\\heads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34424F2D-F071-C66D-2A1B-702DDD8E2ECC}|Assembly-CSharp.csproj|C:\\Users\\K1712529\\Downloads\\gambling\\gamble-\\isRealGame\\assets\\scripts\\heads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34424F2D-F071-C66D-2A1B-702DDD8E2ECC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\heads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -30,11 +42,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InteractionPrompt.cs",
+              "DocumentMoniker": "C:\\Users\\K1712529\\Downloads\\gambling\\gamble-\\isRealGame\\Assets\\Scripts\\InteractionPrompt.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InteractionPrompt.cs",
+              "ToolTip": "C:\\Users\\K1712529\\Downloads\\gambling\\gamble-\\isRealGame\\Assets\\Scripts\\InteractionPrompt.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InteractionPrompt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:36:33.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Interactor.cs",
+              "DocumentMoniker": "C:\\Users\\K1712529\\Downloads\\gambling\\gamble-\\isRealGame\\Assets\\Scripts\\Interactor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactor.cs",
+              "ToolTip": "C:\\Users\\K1712529\\Downloads\\gambling\\gamble-\\isRealGame\\Assets\\Scripts\\Interactor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:34:52.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\K1712529\\Downloads\\gambling\\gamble-\\isRealGame\\Assets\\Scripts\\GameInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameInteraction.cs",
+              "ToolTip": "C:\\Users\\K1712529\\Downloads\\gambling\\gamble-\\isRealGame\\Assets\\Scripts\\GameInteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameInteraction.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:25:12.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "tails.cs",
               "DocumentMoniker": "C:\\Users\\K1712529\\Downloads\\gambling\\gamble-\\isRealGame\\Assets\\Scripts\\tails.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\tails.cs",
@@ -42,12 +91,11 @@
               "RelativeToolTip": "Assets\\Scripts\\tails.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T14:49:36.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T14:49:36.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "heads.cs",
               "DocumentMoniker": "C:\\Users\\K1712529\\Downloads\\gambling\\gamble-\\isRealGame\\Assets\\Scripts\\heads.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\heads.cs",
@@ -55,12 +103,11 @@
               "RelativeToolTip": "Assets\\Scripts\\heads.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T14:47:41.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T14:47:41.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CoinFlip.cs",
               "DocumentMoniker": "C:\\Users\\K1712529\\Downloads\\gambling\\gamble-\\isRealGame\\Assets\\Scripts\\CoinFlip.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CoinFlip.cs",
@@ -68,12 +115,11 @@
               "RelativeToolTip": "Assets\\Scripts\\CoinFlip.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T14:30:26.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T14:30:26.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "MoveCam.cs",
               "DocumentMoniker": "C:\\Users\\K1712529\\Downloads\\gambling\\gamble-\\isRealGame\\Assets\\Scripts\\MoveCam.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MoveCam.cs",
@@ -85,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Pcam.cs",
               "DocumentMoniker": "C:\\Users\\K1712529\\Downloads\\gambling\\gamble-\\isRealGame\\Assets\\Scripts\\Pcam.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Pcam.cs",

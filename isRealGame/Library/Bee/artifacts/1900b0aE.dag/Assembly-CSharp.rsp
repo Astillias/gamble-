@@ -345,6 +345,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/CoinFlip.cs"
 "Assets/Scripts/heads.cs"
+"Assets/Scripts/InteractionPrompt.cs"
+"Assets/Scripts/Interactor.cs"
 "Assets/Scripts/MoveCam.cs"
 "Assets/Scripts/Pcam.cs"
 "Assets/Scripts/tails.cs"
